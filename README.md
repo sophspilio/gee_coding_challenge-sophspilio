@@ -5,4 +5,5 @@ Below is a `gif` of the 20 year median NDVI (Normalized Difference Vegetation In
 ![NDVI Animation of Greece](images/Greece_ndvi.gif)
 
 
-This code was based on the [MODIS NDVI Times Series Animation tutorial](https://developers.google.com/earth-engine/tutorials/community/modis-ndvi-time-series-animation#2_define_clipping_and_region_boundary_geometries) from Google Earth Engine, but edited to highlight Greece. 
+This code was based on the [MODIS NDVI Times Series Animation tutorial](https://developers.google.com/earth-engine/tutorials/community/modis-ndvi-time-series-animation#2_define_clipping_and_region_boundary_geometries) from Google Earth Engine, but edited to highlight Greece. The GEE code can be found in `ndvi_animation_greeece.js` 
+
